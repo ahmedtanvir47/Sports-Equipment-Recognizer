@@ -1,4 +1,4 @@
-remote_theme: alshedivat/al-folio@main
+remote_theme: al-folio@main
 plugins:
 - jekyll-remote-theme
 
