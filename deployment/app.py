@@ -9,29 +9,7 @@ import gradio as gr
 
 model = load_learner('models/sport-recognizer-v3.pkl')
 
-equipment_labels = (
-    'Archery Bow',
-    'Badminton Shuttlecock',
-    'Baseball Bat',
-    'Basketball ball',
-    'Bowling Ball',
-    'Boxing Gloves',
-    'Carrom board',
-    'Chessboard',
-    'Cricket Bat',
-    'Frisbee disc',
-    'Golf ball',
-    'Hockey Stick',
-    'Ice Skates',
-    'Rugby Ball',
-    'Skateboard',
-    'Ski Poles',
-    'Soccer ball',
-    'Table Tennis Paddle',
-    'Tennis Racket',
-    'Volleyball ball'
-
-)
+equipment_labels = model.dls.vocab
 
 def recognize_image(image):
   pred, idx, probs = model.predict(image)
