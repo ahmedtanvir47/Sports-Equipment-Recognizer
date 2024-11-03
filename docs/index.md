@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-# Sports Equipment Recognizeree
+# Sports Equipment Recognizer
 The goal of this project is to classify 20 different types of sports equipment popular around the world. <br/> The types are following: <br/>
 1.  Soccer ball
 2.  Basketball ball
