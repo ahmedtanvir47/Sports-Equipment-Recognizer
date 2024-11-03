@@ -9,3 +9,5 @@ description: An image classification API that classifies 20 different sports equ
 
 author:
   name: Tanvir Ahmed Munna
+
+theme_color: '#333333'
