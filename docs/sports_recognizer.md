@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sports Equipment Recognizeree
+title: Sports Equipment Recognizer
 ---
 
 
