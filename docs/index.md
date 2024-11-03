@@ -12,7 +12,7 @@ The goal of this project is to classify 20 different types of sports equipment p
 4.  Baseball Bat
 5.  Cricket Bat
 6.  Hockey Stick
-7.  Volleyball ball
+7.  Volleyball
 8.  Badminton Shuttlecock
 9.  Table Tennis Paddle
 10.  Rugby Ball

@@ -24,7 +24,9 @@ examples = [
     'test_images/unknown_00.jpg',
     'test_images/unknown_01.jpg',
     'test_images/unknown_02.jpg',
-    'test_images/unknown_03.jpg'
+    'test_images/unknown_03.jpg',
+    'test_images/unknown_04.jpg',
+    'test_images/unknown_05.jpg'
     ]
 
 iface = gr.Interface(fn=recognize_image, inputs=image, outputs=label, examples=examples)

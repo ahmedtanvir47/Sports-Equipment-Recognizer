@@ -1,6 +1,6 @@
 ---
-title: Sport Recognizer
-emoji: 🐠
+title: Sport Equipment Recognizer
+emoji: ⚽🏐🏀🏈🎾🏏
 colorFrom: indigo
 colorTo: pink
 sdk: gradio
