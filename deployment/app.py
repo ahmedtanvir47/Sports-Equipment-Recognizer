@@ -30,4 +30,4 @@ examples = [
     ]
 
 iface = gr.Interface(fn=recognize_image, inputs=image, outputs=label, examples=examples)
-iface.launch(inline=False)
+iface.launch(inline=False, share= True)
