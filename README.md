@@ -56,6 +56,8 @@ The trained model was deployed as an interactive app on **Hugging Face Spaces** 
 The deployed model API is accessible on a **GitHub Pages** site, allowing users to interact with the model via a web interface. This API integration showcases how the model can be utilized in a real-world application, making it accessible to non-technical users.
 
 - [GitHub Pages Site](https://ahmedtanvir47.github.io/Sports-Equipment-Recognizer/)
+
+
 ![](deployment/github_pages.png)
 
 ## Results and Conclusion
