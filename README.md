@@ -5,7 +5,7 @@ The **Sports Equipment Recognizer** is a deep learning project that uses **fasta
 
 ## Goal
 The main objective of this project is to classify 20 widely used sports equipment items into their respective categories with high accuracy. The types of sports equipment include:
-- Soccer Ball
+- FootBall
 - Basketball
 - Tennis Racket
 - Baseball Bat
